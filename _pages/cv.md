@@ -11,35 +11,44 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.A. in Linguistics & Computer Science, Boston University, 2025 (expected)
+  * minor in Philosophy
+* CreteLing at the University of Crete, Summer 2023
+  * Coursework in neurolinguistics, experimental psycholinguistics, formal semantics, and developmental linguistics
+  * Expenses were covered by the Karbank fellowship from the BU Department of Philosophy
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Metadata Intern @ New York Journal of Books, February 2024 - Present
+  * Classified and categorized 100s of books by genre using marketing and branding principles, ensuring accurate information for reviewers       and enhancing user experience
+  * Input and double-checked book information, ensuring data accuracy and completeness for the website
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Student Researcher @ Boston University Dept. of Linguistics, August 2023 - Present
+  * Designed and conducted a research project on large language model’s command of linguistic negation through creating custom datasets and      evaluating LLM’s performance; secured UROP funding for the project
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Resident Assistant @ Boston University, August 2022 - Present
+  * Leveraged strong communication and problem-solving skills to successfully resolve conflicts among 50+ residents
+  * Collaborated effectively with a team of RAs to plan and execute engaging events for over 200 residents, increasing
+    participation by 20% through innovative engagement strategies
+    
+* Internal Liaison Lead @ Boston University Student Government, August 2022 - Present
+  * Coordinated outreach efforts within Student Government departments and with BU offices and student clubs
+  * Organized a catering event attended by 500+ students, found local restaurants for participating in the event and
+    increased their visibility to the BU student body through a social media campaign
+  * Led a project for compiling and distributing a public transportation guide for BU students that reached 3000+
+    students, promoted the guide through various media channels
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Natural Languages
+  * Turkish (fluent)
+  * French (intermediate)
+  * Spanish (beginner)
+* Technical Skills
+  * Programming languages: Java, Python, R
+  * Libraries and tools: pandas, NumPy, transformers, evaluate, PyTorch, github
+  * Computer Science: Data Analysis, Data Structures, Algorithm Design, Linear Algebra, Discrete Math, Probability, Evaluating Large       Language Models, Object-Oriented Programming
+* Strategic skills: Market Research, Communication and Messaging, Project Management, Social Media
 
 Publications
 ======
@@ -47,18 +56,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
